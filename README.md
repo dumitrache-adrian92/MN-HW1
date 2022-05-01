@@ -7,4 +7,4 @@ index_of_page number_of_links index_of_links
 ...
 index_of_page number_of_links index_of_links
 ```
-and outputs the result for the two methods as well as a list of all pages sorted by importance.
+along with a percentage that determines the chance that a user will click on the next page, an error value and outputs the result for the two methods as well as a list of all pages sorted by importance.
