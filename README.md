@@ -1,6 +1,6 @@
 Implementation of PageRank in Octave using the faster iterative method, as well as the more accurate algebraic method while also calculating the importance of each page.
 
-PageRank.m takes a file with the following format as input:
+PageRank.m takes a file with the following format as input (graf1 and graf2 can be used for this):
 ```
 number of pages
 index_of_page number_of_links index_of_links
